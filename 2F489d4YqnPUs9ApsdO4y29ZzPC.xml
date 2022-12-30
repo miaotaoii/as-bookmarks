@@ -5,6 +5,31 @@
         <option name="bookmarks">
           <BookmarkState>
             <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/mangatoon-content-reader/mangatoon-novel-reader/src/main/java/mobi/mangatoon/module/novelreader/activity/SegmentShareActivity.kt" />
+              <entry key="line" value="119" />
+            </attributes>
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+        </option>
+        <option name="name" value="书摘分享" />
+      </GroupState>
+      <GroupState>
+        <option name="bookmarks">
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/mangatoon-passport/src/main/java/mobi/mangatoon/passport/LoginHelper.kt" />
+              <entry key="line" value="53" />
+            </attributes>
+            <option name="description" value="fun updateLocalLoginInfo(loginType : String?, data: Map&lt;String, String&gt;?) {" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+        </option>
+        <option name="name" value="dengli" />
+      </GroupState>
+      <GroupState>
+        <option name="bookmarks">
+          <BookmarkState>
+            <attributes>
               <entry key="url" value="file://$PROJECT_DIR$/mangatoon-homepage/mangatoon-home-base/src/main/java/mobi/mangatoon/home/base/home/adapters/AuthorBroadcastBannerAdapter.kt" />
               <entry key="line" value="29" />
             </attributes>
@@ -103,15 +128,15 @@
               <entry key="url" value="file://$PROJECT_DIR$/mangatoon-contribution/src/main/java/mangatoon/mobi/contribution/adapter/CalendarAdapter.kt" />
               <entry key="line" value="41" />
             </attributes>
-            <option name="description" value="override fun getView(position: Int, convertView: View?, parent: ViewGroup?): View {" />
+            <option name="description" value="日历adapter" />
             <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
           </BookmarkState>
           <BookmarkState>
             <attributes>
               <entry key="url" value="file://$PROJECT_DIR$/mangatoon-contribution/src/main/java/mangatoon/mobi/contribution/acitvity/AuthorCheckInActivity.kt" />
-              <entry key="line" value="47" />
+              <entry key="line" value="48" />
             </attributes>
-            <option name="description" value="override fun onCreate(savedInstanceState: Bundle?) {" />
+            <option name="description" value="打卡activity" />
             <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
           </BookmarkState>
         </option>
@@ -124,7 +149,7 @@
               <entry key="url" value="file://$PROJECT_DIR$/mangatoon-homepage/mangatoon-home-base/src/main/java/mobi/mangatoon/home/base/home/viewholders/SuggestionAuthorWordsViewHolder.kt" />
               <entry key="line" value="16" />
             </attributes>
-            <option name="description" value="作者的话" />
+            <option name="description" value="作者的话绑定" />
             <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
           </BookmarkState>
           <BookmarkState>
@@ -132,7 +157,7 @@
               <entry key="url" value="file://$PROJECT_DIR$/mangatoon-content-reader/mangatoon-novel-reader/src/main/java/mobi/mangatoon/module/novelreader/fragment/FictionContentFragment.kt" />
               <entry key="line" value="157" />
             </attributes>
-            <option name="description" value="register { FictionTextViewHolder(it, fictionReaderConfig, itemCallBack) }" />
+            <option name="description" value="adapter注册" />
             <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
           </BookmarkState>
         </option>
@@ -198,8 +223,10 @@
         <entry key="mangatoon-base-function/mangatoon-comment/src/comment/res/layout/activity_comments_of_episode.xml" value="0.25" />
         <entry key="mangatoon-base-function/mangatoon-comment/src/comment/res/layout/activity_comments_of_segment.xml" value="0.80125" />
         <entry key="mangatoon-base-function/mangatoon-comment/src/comment/res/layout/activity_dynamic_comment_detail.xml" value="0.3324468085106383" />
+        <entry key="mangatoon-base-function/mangatoon-comment/src/comment/res/layout/activity_score_and_comment.xml" value="0.20555555555555555" />
         <entry key="mangatoon-base-function/mangatoon-comment/src/comment/res/layout/activity_segment_comment_detail.xml" value="0.36023054755043227" />
         <entry key="mangatoon-base-function/mangatoon-function-base/src/main/res/layout/author_broadcast_item.xml" value="0.55" />
+        <entry key="mangatoon-base-function/mangatoon-function-base/src/main/res/layout/author_broadcast_item2.xml" value="0.3282407407407407" />
         <entry key="mangatoon-base-function/mangatoon-function-comment/src/main/res/layout/comment_detail_layout_header.xml" value="0.10646387832699619" />
         <entry key="mangatoon-base-function/mangatoon-function-details/src/main/res/drawable/author_info_and_reward_black_bg.xml" value="0.1455" />
         <entry key="mangatoon-base-function/mangatoon-function-details/src/main/res/drawable/author_info_and_reward_theme_bg.xml" value="0.1555" />
@@ -275,6 +302,7 @@
         <entry key="mangatoon-content-reader/mangatoon-novel-reader/src/main/res/layout/layout_share_card_bottom.xml" value="0.2074074074074074" />
         <entry key="mangatoon-content-reader/mangatoon-novel-reader/src/main/res/layout/layout_share_cardd_bottom.xml" value="0.3491452991452991" />
         <entry key="mangatoon-content-reader/mangatoon-video-player/src/main/res/layout/list_video_episode_control_item.xml" value="0.855" />
+        <entry key="mangatoon-contribution/src/main/res/drawable/check_in_bg_theme.xml" value="0.275" />
         <entry key="mangatoon-contribution/src/main/res/drawable/check_in_top_bg.xml" value="0.2855" />
         <entry key="mangatoon-contribution/src/main/res/drawable/check_no_data_bg_theme.xml" value="0.2655" />
         <entry key="mangatoon-contribution/src/main/res/drawable/rank_number_img1.xml" value="0.3285" />
@@ -510,8 +538,8 @@
         <entry file="file://$PROJECT_DIR$/mangatoon-base-function/mangatoon-comment/src/comment/java/mobi/mangatoon/discover/comment/activity/CommentsOfEpisodeActivity.kt">
           <provider selected="true" editor-type-id="android-source-code">
             <state>
-              <editor-state relative-caret-position="605">
-                <caret line="90" column="22" selection-start-line="90" selection-start-column="21" selection-end-line="90" selection-end-column="22" />
+              <editor-state relative-caret-position="678">
+                <caret line="315" column="50" selection-start-line="315" selection-start-column="50" selection-end-line="315" selection-end-column="50" />
               </editor-state>
               <multi-preview-state selected="">
                 <representations>
@@ -541,105 +569,91 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mangatoon-homepage/mangatoon-home-base/src/main/java/mobi/mangatoon/home/base/home/adapters/AuthorBroadcastBannerAdapter.kt">
-          <provider selected="true" editor-type-id="android-source-code">
-            <state>
-              <editor-state relative-caret-position="647">
-                <caret line="82" column="44" lean-forward="true" selection-start-line="82" selection-start-column="44" selection-end-line="82" selection-end-column="44" />
-              </editor-state>
-              <multi-preview-state selected="">
-                <representations>
-                  <list />
-                </representations>
-              </multi-preview-state>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.youth.banner/banner/2.0.8/5bfa8d45bac0c4e5907fd2f1f0cae69beee7d325/banner-2.0.8-sources.jar!/com/youth/banner/Banner.java">
-          <provider selected="true" editor-type-id="android-source-code">
-            <state selected-layout="SHOW_EDITOR">
-              <editor-state relative-caret-position="143">
-                <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
-              </editor-state>
-              <multi-preview-state selected="Custom views">
-                <representations>
-                  <list />
-                </representations>
-              </multi-preview-state>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.viewpager2/viewpager2/1.0.0/3c3569044e6969f1ee5c3aa03b08e6717a2d782f/viewpager2-1.0.0-sources.jar!/androidx/viewpager2/widget/ViewPager2.java">
-          <provider selected="true" editor-type-id="android-source-code">
-            <state selected-layout="SHOW_EDITOR">
-              <editor-state relative-caret-position="283">
-                <caret line="601" column="16" selection-start-line="601" selection-start-column="16" selection-end-line="601" selection-end-column="16" />
-              </editor-state>
-              <multi-preview-state selected="Custom views">
-                <representations>
-                  <list />
-                </representations>
-              </multi-preview-state>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mangatoon-base-function/mangatoon-function-base/src/main/java/mobi/mangatoon/function/base/adapter/BroadcastBannerAdapter.kt">
-          <provider selected="true" editor-type-id="android-source-code">
-            <state>
-              <editor-state relative-caret-position="126">
-                <caret line="40" column="11" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
-              </editor-state>
-              <multi-preview-state selected="">
-                <representations>
-                  <list />
-                </representations>
-              </multi-preview-state>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.youth.banner/banner/2.0.8/5bfa8d45bac0c4e5907fd2f1f0cae69beee7d325/banner-2.0.8-sources.jar!/com/youth/banner/adapter/BannerAdapter.java">
-          <provider selected="true" editor-type-id="android-source-code">
-            <state>
-              <editor-state relative-caret-position="221">
-                <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-              </editor-state>
-              <multi-preview-state selected="">
-                <representations>
-                  <list />
-                </representations>
-              </multi-preview-state>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.youth.banner/banner/2.0.8/5bfa8d45bac0c4e5907fd2f1f0cae69beee7d325/banner-2.0.8-sources.jar!/com/youth/banner/listener/OnBannerListener.java">
-          <provider selected="true" editor-type-id="android-source-code">
-            <state>
-              <editor-state relative-caret-position="48">
-                <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-              </editor-state>
-              <multi-preview-state selected="">
-                <representations>
-                  <list />
-                </representations>
-              </multi-preview-state>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mangatoon-base-function/mangatoon-function-base/src/main/res/layout/author_broadcast_item.xml">
+      <file pinned="true" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mangatoon-contribution/src/main/res/layout/author_check_in_activity.xml">
           <provider selected="true" editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="true" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mangatoon-content-reader/mangatoon-novel-reader/src/main/java/mobi/mangatoon/module/novelreader/activity/SegmentShareActivity.kt">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state>
+              <editor-state relative-caret-position="265">
+                <caret line="119" selection-start-line="119" selection-end-line="119" />
+              </editor-state>
+              <multi-preview-state selected="">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mangatoon-contribution/src/main/java/mangatoon/mobi/contribution/acitvity/AuthorCheckInActivity.kt">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state>
+              <editor-state relative-caret-position="104">
+                <caret line="136" column="53" selection-start-line="136" selection-start-column="53" selection-end-line="136" selection-end-column="53" />
+              </editor-state>
+              <multi-preview-state selected="">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mangatoon-pub/common/java/com/weex/app/activities/DetailActivity.java">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state>
+              <editor-state relative-caret-position="174">
+                <caret line="719" selection-start-line="719" selection-end-line="719" />
+              </editor-state>
+              <multi-preview-state selected="">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mangatoon-contribution/src/main/res/drawable/check_in_bg_theme.xml">
+          <provider selected="true" editor-type-id="android-preview-designer" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mangatoon-content-reader/mangatoon-novel-reader/src/main/AndroidManifest.xml">
+          <provider editor-type-id="android-manifest" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+              <folding>
+                <element signature="e#2075#2107#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mangatoon-share/src/main/java/mobi/mangatoon/share/fragment/ContentShareFragment.kt">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state>
+              <editor-state relative-caret-position="233">
+                <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+              </editor-state>
+              <multi-preview-state selected="">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -655,19 +669,19 @@
       <summary usageCount="25" lastUsed="1672121058311" />
     </fileType>
     <fileType name="DIFF">
-      <summary usageCount="116" lastUsed="1672280944259" />
+      <summary usageCount="117" lastUsed="1672389652452" />
     </fileType>
     <fileType name="GitIgnore file">
       <summary usageCount="1" lastUsed="1668757920104" />
     </fileType>
     <fileType name="Gradle">
-      <summary usageCount="51" lastUsed="1672121058302" />
+      <summary usageCount="53" lastUsed="1672368212825" />
     </fileType>
     <fileType name="Image">
       <summary usageCount="152" lastUsed="1672210296606" />
     </fileType>
     <fileType name="JAVA">
-      <summary usageCount="3009" lastUsed="1672311864913" />
+      <summary usageCount="3042" lastUsed="1672390320847" />
     </fileType>
     <fileType name="JSON">
       <summary usageCount="3" lastUsed="1671094250054" />
@@ -676,7 +690,7 @@
       <summary usageCount="17" lastUsed="1672126779204" />
     </fileType>
     <fileType name="Kotlin">
-      <summary usageCount="2545" lastUsed="1672309949016" />
+      <summary usageCount="2577" lastUsed="1672390073798" />
     </fileType>
     <fileType name="Markdown">
       <summary usageCount="6" lastUsed="1668423999479" />
@@ -694,16 +708,11 @@
       <summary usageCount="1" lastUsed="1667357659164" />
     </fileType>
     <fileType name="XML">
-      <summary usageCount="1763" lastUsed="1672309912157" />
+      <summary usageCount="1780" lastUsed="1672390126158" />
     </fileType>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>1号</find>
-      <find>ensureHandler</find>
-      <find>bốn</find>
-      <find>&gt;Tư&lt;</find>
-      <find>&gt;Todo&lt;</find>
       <find>&gt;todo&lt;</find>
       <find>&gt;los</find>
       <find>actualizaciones</find>
@@ -729,13 +738,16 @@
       <find>setNavigationBarColor</find>
       <find>fl_bg</find>
       <find>rootLayout</find>
+      <find>2.16.00</find>
+      <find>2.16.0</find>
+      <find>addapilog</find>
+      <find>/api/contetn</find>
+      <find>/api/content/detail</find>
     </findStrings>
     <replaceStrings>
       <replace>addApiLog(&quot;[&quot; + tag + &quot;]</replace>
     </replaceStrings>
     <dirStrings>
-      <dir>$PROJECT_DIR$/mangatoon-base-function/mangatoon-function-base/src/main/res/layout</dir>
-      <dir>$PROJECT_DIR$/mangatoon-base-module/src/main/java/mobi/mangatoon/module/base/sensors</dir>
       <dir>$PROJECT_DIR$/mangatoon-widget/src/main/java/mobi/mangatoon/widget/rv</dir>
       <dir>$USER_HOME$/Library/Android/sdk/sources/android-31/android/view</dir>
       <dir>$PROJECT_DIR$/mangatoon-homepage/mangatoon-home-base/src/main/java/mobi/mangatoon/home/base/home/adapters</dir>
@@ -750,7 +762,6 @@
       <dir>$PROJECT_DIR$/mangatoon-file-uploader/src/main/java/mobi/mangatoon/file/uploader</dir>
       <dir>$PROJECT_DIR$/mangatoon-network/src/main/java/mobi/mangatoon/network/logger</dir>
       <dir>$PROJECT_DIR$/mangatoon-base-function/mangatoon-function-setting/src/main/java/mangatoon/function/setting</dir>
-      <dir>$PROJECT_DIR$/mangatoon-network-monitor/src/main/java/mobi/mangatoon</dir>
       <dir>$PROJECT_DIR$/mangatoon-contribution/src/main/java/mangatoon/mobi/contribution/viewmodel</dir>
       <dir>$PROJECT_DIR$/mangatoon-js/src/androidTest/assets</dir>
       <dir>$PROJECT_DIR$/mangatoon-content-reader/mangatoon-dialog-novel-reader/src/main/java/mobi/mangatoon/module/dialognovel/viewmodel</dir>
@@ -764,16 +775,16 @@
       <dir>$PROJECT_DIR$/mangatoon-widget/src/main/res/layout</dir>
       <dir>$PROJECT_DIR$/mangatoon-contribution/src/main/res/values-es</dir>
       <dir>$PROJECT_DIR$/mangatoon-homepage/mangatoon-home-base/src/mt/res/layout</dir>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/mangatoon-network-monitor/src/main/java/mobi/mangatoon</dir>
+      <dir>$PROJECT_DIR$/mangatoon-content-reader/mangatoon-base-reader/src/main/java/mobi/mangatoon/module/basereader/adapter</dir>
     </dirStrings>
   </component>
   <component name="GitSEFilterConfiguration">{
 }</component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/mangatoon-network/src/androidTest/java/mobi/mangatoon/network/BackupSingleThreadWorkerTest.kt" />
-      <option value="$PROJECT_DIR$/mangatoon-network-monitor/src/main/java/mobi/mangatoon/NetWorkDiagnoseMgr.kt" />
       <option value="$PROJECT_DIR$/mangatoon-base-function/mangatoon-function-setting/src/main/java/mangatoon/function/setting/NickNameEditPopupWindow.java" />
-      <option value="$PROJECT_DIR$/mangatoon-contribution/src/main/java/mangatoon/mobi/contribution/acitvity/AuthorCheckInActivity.kt" />
       <option value="$PROJECT_DIR$/mangatoon-contribution/src/main/java/mangatoon/mobi/contribution/viewmodel/AuthorCheckInViewModel.kt" />
       <option value="$PROJECT_DIR$/mangatoon-network/src/main/java/mobi/mangatoon/network/logger/ProcessLogger.kt" />
       <option value="$PROJECT_DIR$/mangatoon-contribution/src/main/java/mangatoon/mobi/contribution/fragment/ContributionTabFragment.kt" />
@@ -821,6 +832,9 @@
       <option value="$PROJECT_DIR$/mangatoon-homepage/mangatoon-home-base/src/main/java/mobi/mangatoon/home/base/home/adapters/AuthorBroadcastBannerAdapter.kt" />
       <option value="$PROJECT_DIR$/mangatoon-base-function/mangatoon-function-base/src/main/java/mobi/mangatoon/function/base/adapter/BroadcastBannerAdapter.kt" />
       <option value="$PROJECT_DIR$/mangatoon-base-function/mangatoon-function-base/src/main/res/layout/author_broadcast_item.xml" />
+      <option value="$PROJECT_DIR$/mangatoon-js/src/main/java/mobi/mangatoon/js/instance/JSInstanceImpl.kt" />
+      <option value="$PROJECT_DIR$/mangatoon-pub/common/java/com/weex/app/activities/DetailActivity.java" />
+      <option value="$PROJECT_DIR$/mangatoon-contribution/src/main/java/mangatoon/mobi/contribution/acitvity/AuthorCheckInActivity.kt" />
     </changedPaths>
   </component>
   <component name="IgnoredFileRootStore">
@@ -835,10 +849,10 @@
       <summary usageCount="1" lastUsage="1668757920104" />
     </language>
     <language id="Groovy">
-      <summary usageCount="51" lastUsage="1672121058302" />
+      <summary usageCount="53" lastUsage="1672368212825" />
     </language>
     <language id="JAVA">
-      <summary usageCount="3009" lastUsage="1672311864913" />
+      <summary usageCount="3042" lastUsage="1672390320847" />
     </language>
     <language id="JSON">
       <summary usageCount="3" lastUsage="1671094250054" />
@@ -859,109 +873,15 @@
       <summary usageCount="93" lastUsage="1672048097710" />
     </language>
     <language id="XML">
-      <summary usageCount="1763" lastUsage="1672309912157" />
+      <summary usageCount="1780" lastUsage="1672390126158" />
     </language>
     <language id="kotlin">
-      <summary usageCount="2545" lastUsage="1672309949016" />
+      <summary usageCount="2577" lastUsage="1672390073798" />
     </language>
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" />
     <panes>
-      <pane id="AndroidView">
-        <subPane>
-          <expand>
-            <path>
-              <item name="mangatoon-android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="mangatoon-im" type="feadf853:AndroidModuleNode" />
-            </path>
-            <path>
-              <item name="mangatoon-android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="mangatoon-im" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-            </path>
-            <path>
-              <item name="mangatoon-android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="mangatoon-im" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="im" type="cbb59c9e:AndroidPsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mangatoon-android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="mangatoon-im" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="im" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="reposity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mangatoon-android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="mangatoon-im" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="im" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="urlhandler" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mangatoon-android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="mangatoon-im" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="im" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mangatoon-android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="mangatoon-im" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="im" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="webview" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mangatoon-android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="mangatoon-im" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="im" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="widget" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mangatoon-android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="mangatoon-im" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="im" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="widget" type="462c0819:PsiDirectoryNode" />
-              <item name="adapters" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mangatoon-android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="mangatoon-im" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="im" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="widget" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mangatoon-android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="mangatoon-widget" type="feadf853:AndroidModuleNode" />
-            </path>
-            <path>
-              <item name="mangatoon-android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="mangatoon-widget" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-            </path>
-            <path>
-              <item name="mangatoon-android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="mangatoon-widget" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-              <item name="drawable" type="ddeffd01:AndroidResFolderTypeNode" />
-            </path>
-            <path>
-              <item name="mangatoon-android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="mangatoon-widget" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -973,51 +893,6 @@
               <item name="mangatoon-android" type="b2602c69:ProjectViewProjectNode" />
               <item name="mangatoon-android" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mangatoon-android" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mangatoon-android" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="mangatoon-base-function" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="mangatoon-android" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mangatoon-android" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="mangatoon-base-function" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="mangatoon-comment" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="mangatoon-android" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mangatoon-android" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="mangatoon-base-function" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="mangatoon-comment" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mangatoon-android" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mangatoon-android" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="mangatoon-base-function" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="mangatoon-comment" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="comment" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="mangatoon-android" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mangatoon-android" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="mangatoon-base-function" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="mangatoon-comment" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="comment" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mangatoon-android" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mangatoon-android" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="mangatoon-base-function" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="mangatoon-comment" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="comment" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-              <item name="layout" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mangatoon-android" type="b2602c69:ProjectViewProjectNode" />
@@ -1070,16 +945,9 @@
               <item name="mangatoon-contribution" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mangatoon-android" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mangatoon-android" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="mangatoon-contribution" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-              <item name="drawable" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="contribution" type="462c0819:PsiDirectoryNode" />
+              <item name="fragment" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mangatoon-android" type="b2602c69:ProjectViewProjectNode" />
@@ -1275,6 +1143,100 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mangatoon-android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="mangatoon-im" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="mangatoon-android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="mangatoon-im" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="mangatoon-android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="mangatoon-im" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="im" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mangatoon-android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="mangatoon-im" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="im" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="reposity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mangatoon-android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="mangatoon-im" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="im" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="urlhandler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mangatoon-android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="mangatoon-im" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="im" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mangatoon-android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="mangatoon-im" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="im" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="webview" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mangatoon-android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="mangatoon-im" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="im" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="widget" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mangatoon-android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="mangatoon-im" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="im" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="widget" type="462c0819:PsiDirectoryNode" />
+              <item name="adapters" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mangatoon-android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="mangatoon-im" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="im" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="widget" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mangatoon-android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="mangatoon-widget" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="mangatoon-android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="mangatoon-widget" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="mangatoon-android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="mangatoon-widget" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="drawable" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="mangatoon-android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="mangatoon-widget" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
@@ -1302,7 +1264,7 @@
           </tab>
           <tab name="Logcat (2)">
             <content>
-              <panel>{'device':{'deviceId':'S9B4C17411012385','name':'HUAWEI BLN-AL40','serialNumber':'S9B4C17411012385','isOnline':false,'release':0,'sdk':26,'model':'BLN-AL40','isEmulator':false},'formattingConfig':{'preset':'COMPACT'},'filter':'/api/v2/novel/author/broadcast','isSoftWrap':false}</panel>
+              <panel>{'device':{'deviceId':'S9B4C17411012385','name':'HUAWEI BLN-AL40','serialNumber':'S9B4C17411012385','isOnline':false,'release':0,'sdk':26,'model':'BLN-AL40','isEmulator':false},'formattingConfig':{'preset':'COMPACT'},'filter':'api/homepage/icons','isSoftWrap':false}</panel>
             </content>
           </tab>
         </tabs>
@@ -1321,7 +1283,7 @@
       <TerminalTabState tabName="Local (5)" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="mangatoon-android-history6" />
       <TerminalTabState tabName="Local (6)" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="mangatoon-android-history11" />
     </option>
-    <option name="mySelectedTabIndex" value="5" />
+    <option name="mySelectedTabIndex" value="2" />
   </component>
   <component name="TestHistory">
     <history-entry file="ExampleTest_test - 2022.10.24 at 16h 45m 56s.xml">
@@ -1368,18 +1330,18 @@
   </component>
   <component name="ToolWindowManager">
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33964843" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3466797" />
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info id="Pull Requests" order="2" />
       <window_info id="Build Variants" order="3" side_tool="true" />
       <window_info id="Resources Explorer" order="4" weight="0.33010334" />
-      <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.5542097" weight="0.3429535" />
+      <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.3564337" weight="0.30247378" />
       <window_info anchor="bottom" id="iScratch" order="1" sideWeight="0.49940428" side_tool="true" weight="0.44265366" />
-      <window_info anchor="bottom" id="Bookmarks" order="2" sideWeight="0.65190625" side_tool="true" weight="0.35419792" />
-      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.62609214" side_tool="true" visible="true" weight="0.21026987" />
-      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.37668785" side_tool="true" weight="0.2762369" />
+      <window_info anchor="bottom" id="Bookmarks" order="2" sideWeight="0.5450754" side_tool="true" weight="0.18178411" />
+      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.5454726" side_tool="true" visible="true" weight="0.37593704" />
+      <window_info anchor="bottom" id="Debug" order="4" show_stripe_button="false" sideWeight="0.4866958" side_tool="true" weight="0.3189655" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" weight="0.32977816" />
-      <window_info anchor="bottom" id="Find" order="6" sideWeight="0.40528196" visible="true" weight="0.3242129" />
+      <window_info anchor="bottom" id="Find" order="6" sideWeight="0.4545274" visible="true" weight="0.37593704" />
       <window_info anchor="bottom" id="Run" order="7" show_stripe_button="false" sideWeight="0.52720416" weight="0.37743628" />
       <window_info anchor="bottom" id="TODO" order="8" sideWeight="0.5004593" weight="0.32946897" />
       <window_info anchor="bottom" id="Problems View" order="9" sideWeight="0.5779321" weight="0.33594918" />
@@ -1387,13 +1349,13 @@
       <window_info anchor="bottom" id="clangd" order="11" />
       <window_info anchor="bottom" id="Build" order="12" sideWeight="0.4485703" weight="0.23650675" />
       <window_info anchor="bottom" id="Services" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Logcat" order="14" sideWeight="0.37390786" visible="true" weight="0.21026987" />
+      <window_info anchor="bottom" id="Logcat" order="14" sideWeight="0.51330423" weight="0.16829085" />
       <window_info anchor="bottom" id="Android Profiler" order="15" weight="0.32977816" />
       <window_info anchor="bottom" id="Logcat V2" order="16" />
       <window_info anchor="bottom" id="Layout Inspector" order="17" side_tool="true" weight="0.32977816" />
       <window_info anchor="bottom" id="Messages" order="18" sideWeight="0.5002572" visible="true" weight="0.3292227" />
       <window_info anchor="bottom" x="126" y="1050" width="1899" height="200" id="App Inspection" order="19" sideWeight="0.5001986" weight="0.3302099" />
-      <window_info anchor="bottom" id="App Quality Insights" order="20" sideWeight="0.7734313" weight="0.2702399" />
+      <window_info anchor="bottom" id="App Quality Insights" order="20" sideWeight="0.45492455" weight="0.24325338" />
       <window_info anchor="bottom" id="Evernote" order="21" sideWeight="0.5001986" weight="0.3302099" />
       <window_info anchor="right" id="documentation.v2" side_tool="true" weight="0.33006042" />
       <window_info anchor="right" id="Gradle" order="0" weight="0.3298898" />
@@ -1430,12 +1392,14 @@
     </layoutV2>
     <recentWindows>
       <value>Terminal</value>
-      <value>Logcat</value>
-      <value>Version Control</value>
-      <value>Debug</value>
-      <value>Project</value>
       <value>Find</value>
+      <value>Project</value>
+      <value>Version Control</value>
+      <value>Logcat</value>
+      <value>Debug</value>
       <value>Bookmarks</value>
+      <value>App Quality Insights</value>
+      <value>App Inspection</value>
       <value>iScratch</value>
       <value>Evernote</value>
       <value>Quick Notes</value>
@@ -1443,8 +1407,6 @@
       <value>Device File Explorer</value>
       <value>Build</value>
       <value>Run</value>
-      <value>App Quality Insights</value>
-      <value>App Inspection</value>
       <value>Notifications</value>
       <value>Structure</value>
       <value>Device Manager</value>
@@ -1544,10 +1506,10 @@
       <screen x="0" y="25" width="2560" height="1338" />
     </state>
     <state x="1322" y="621" key="#org.jetbrains.kotlin.idea.refactoring.move.moveTopLevelDeclarations.ui.KotlinSelectInnerOrMembersRefactoringDialog/0.25.2560.1338@0.25.2560.1338" timestamp="1667961060337" />
-    <state x="460" y="710" width="1389" height="614" key="#xdebugger.evaluate" timestamp="1672307066485">
+    <state x="460" y="710" width="1389" height="614" key="#xdebugger.evaluate" timestamp="1672371502025">
       <screen x="0" y="25" width="2560" height="1334" />
     </state>
-    <state x="460" y="710" width="1389" height="614" key="#xdebugger.evaluate/0.25.2560.1334@0.25.2560.1334" timestamp="1672307066485" />
+    <state x="460" y="710" width="1389" height="614" key="#xdebugger.evaluate/0.25.2560.1334@0.25.2560.1334" timestamp="1672371502025" />
     <state x="934" y="617" width="1113" height="745" key="#xdebugger.evaluate/0.25.2560.1338@0.25.2560.1338" timestamp="1669088841279" />
     <state x="994" y="467" key="AndroidCreateResourceDirectoryDialog" timestamp="1672300807670">
       <screen x="0" y="25" width="2560" height="1334" />
@@ -1566,76 +1528,76 @@
     <state x="1048" y="452" key="AndroidCreateXmlResourceDialog/0.25.2560.1334@0.25.2560.1334" timestamp="1669689372095" />
     <state x="1048" y="453" key="AndroidCreateXmlResourceDialog/0.25.2560.1338@0.25.2560.1338" timestamp="1668757801861" />
     <state x="1048" y="478" key="AndroidCreateXmlResourceDialog/0.25.2560.1415@0.25.2560.1415" timestamp="1668766801667" />
-    <state x="1039" y="490" key="AndroidProcessChooserDialog" timestamp="1672306822546">
+    <state x="1039" y="490" key="AndroidProcessChooserDialog" timestamp="1672373190590">
       <screen x="0" y="25" width="2560" height="1334" />
     </state>
-    <state x="1039" y="490" key="AndroidProcessChooserDialog/0.25.2560.1334@0.25.2560.1334" timestamp="1672306822546" />
+    <state x="1039" y="490" key="AndroidProcessChooserDialog/0.25.2560.1334@0.25.2560.1334" timestamp="1672373190590" />
     <state x="1039" y="491" key="AndroidProcessChooserDialog/0.25.2560.1338@0.25.2560.1338" timestamp="1669088583662" />
     <state x="730" y="402" key="AndroidThemeDialog" timestamp="1667986059925">
       <screen x="0" y="25" width="2560" height="1338" />
     </state>
     <state x="730" y="402" key="AndroidThemeDialog/0.25.2560.1338@0.25.2560.1338" timestamp="1667986059925" />
-    <state width="1054" height="667" key="DebuggerActiveHint" timestamp="1672226499823">
+    <state width="304" height="97" key="DebuggerActiveHint" timestamp="1672370105580">
       <screen x="0" y="25" width="2560" height="1334" />
     </state>
-    <state width="1054" height="667" key="DebuggerActiveHint/0.25.2560.1334@0.25.2560.1334" timestamp="1672226499823" />
+    <state width="304" height="97" key="DebuggerActiveHint/0.25.2560.1334@0.25.2560.1334" timestamp="1672370105580" />
     <state width="1280" height="669" key="DebuggerActiveHint/0.25.2560.1338@0.25.2560.1338" timestamp="1669087878514" />
     <state width="946" height="440" key="Diff.GoToChangePopup" timestamp="1666951037032">
       <screen x="0" y="25" width="2560" height="1338" />
     </state>
     <state width="946" height="440" key="Diff.GoToChangePopup/0.25.2560.1338@0.25.2560.1338" timestamp="1666951037032" />
-    <state x="599" y="246" width="1961" height="1088" key="DiffContextDialog" timestamp="1672281179508">
+    <state x="599" y="246" width="1961" height="1088" key="DiffContextDialog" timestamp="1672389770847">
       <screen x="0" y="25" width="2560" height="1334" />
     </state>
-    <state x="599" y="246" width="1961" height="1088" key="DiffContextDialog/0.25.2560.1334@0.25.2560.1334" timestamp="1672281179508" />
+    <state x="599" y="246" width="1961" height="1088" key="DiffContextDialog/0.25.2560.1334@0.25.2560.1334" timestamp="1672389770847" />
     <state x="423" y="710" width="1455" height="568" key="DiffContextDialog/0.25.2560.1338@0.25.2560.1338" timestamp="1668132501414" />
-    <state width="948" height="340" key="GridCell.Tab.0.bottom" timestamp="1672307216260">
+    <state width="1225" height="397" key="GridCell.Tab.0.bottom" timestamp="1672380207002">
       <screen x="0" y="25" width="2560" height="1334" />
     </state>
     <state width="1048" height="324" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1668764426759" />
-    <state width="948" height="340" key="GridCell.Tab.0.bottom/0.25.2560.1334@0.25.2560.1334" timestamp="1672307216260" />
+    <state width="1225" height="397" key="GridCell.Tab.0.bottom/0.25.2560.1334@0.25.2560.1334" timestamp="1672380207002" />
     <state width="1025" height="228" key="GridCell.Tab.0.bottom/0.25.2560.1338@0.25.2560.1338" timestamp="1669168950629" />
-    <state width="948" height="340" key="GridCell.Tab.0.center" timestamp="1672307216260">
+    <state width="1225" height="397" key="GridCell.Tab.0.center" timestamp="1672380207001">
       <screen x="0" y="25" width="2560" height="1334" />
     </state>
     <state width="1048" height="324" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1668764426759" />
-    <state width="948" height="340" key="GridCell.Tab.0.center/0.25.2560.1334@0.25.2560.1334" timestamp="1672307216260" />
+    <state width="1225" height="397" key="GridCell.Tab.0.center/0.25.2560.1334@0.25.2560.1334" timestamp="1672380207001" />
     <state width="1025" height="228" key="GridCell.Tab.0.center/0.25.2560.1338@0.25.2560.1338" timestamp="1669168950629" />
-    <state width="948" height="340" key="GridCell.Tab.0.left" timestamp="1672307216260">
+    <state width="1225" height="397" key="GridCell.Tab.0.left" timestamp="1672380207001">
       <screen x="0" y="25" width="2560" height="1334" />
     </state>
     <state width="1048" height="324" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1668764426759" />
-    <state width="948" height="340" key="GridCell.Tab.0.left/0.25.2560.1334@0.25.2560.1334" timestamp="1672307216260" />
+    <state width="1225" height="397" key="GridCell.Tab.0.left/0.25.2560.1334@0.25.2560.1334" timestamp="1672380207001" />
     <state width="1025" height="228" key="GridCell.Tab.0.left/0.25.2560.1338@0.25.2560.1338" timestamp="1669168950628" />
-    <state width="948" height="340" key="GridCell.Tab.0.right" timestamp="1672307216260">
+    <state width="1225" height="397" key="GridCell.Tab.0.right" timestamp="1672380207001">
       <screen x="0" y="25" width="2560" height="1334" />
     </state>
     <state width="1048" height="324" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1668764426759" />
-    <state width="948" height="340" key="GridCell.Tab.0.right/0.25.2560.1334@0.25.2560.1334" timestamp="1672307216260" />
+    <state width="1225" height="397" key="GridCell.Tab.0.right/0.25.2560.1334@0.25.2560.1334" timestamp="1672380207001" />
     <state width="1025" height="228" key="GridCell.Tab.0.right/0.25.2560.1338@0.25.2560.1338" timestamp="1669168950629" />
-    <state width="948" height="340" key="GridCell.Tab.1.bottom" timestamp="1672307093977">
+    <state width="1225" height="397" key="GridCell.Tab.1.bottom" timestamp="1672380207002">
       <screen x="0" y="25" width="2560" height="1334" />
     </state>
     <state width="1048" height="324" key="GridCell.Tab.1.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1668764426759" />
-    <state width="948" height="340" key="GridCell.Tab.1.bottom/0.25.2560.1334@0.25.2560.1334" timestamp="1672307093977" />
+    <state width="1225" height="397" key="GridCell.Tab.1.bottom/0.25.2560.1334@0.25.2560.1334" timestamp="1672380207002" />
     <state width="1105" height="305" key="GridCell.Tab.1.bottom/0.25.2560.1338@0.25.2560.1338" timestamp="1669096995300" />
-    <state width="948" height="340" key="GridCell.Tab.1.center" timestamp="1672307093977">
+    <state width="1225" height="397" key="GridCell.Tab.1.center" timestamp="1672380207002">
       <screen x="0" y="25" width="2560" height="1334" />
     </state>
     <state width="1048" height="324" key="GridCell.Tab.1.center/0.0.2560.1440@0.0.2560.1440" timestamp="1668764426759" />
-    <state width="948" height="340" key="GridCell.Tab.1.center/0.25.2560.1334@0.25.2560.1334" timestamp="1672307093977" />
+    <state width="1225" height="397" key="GridCell.Tab.1.center/0.25.2560.1334@0.25.2560.1334" timestamp="1672380207002" />
     <state width="1105" height="305" key="GridCell.Tab.1.center/0.25.2560.1338@0.25.2560.1338" timestamp="1669096995300" />
-    <state width="948" height="340" key="GridCell.Tab.1.left" timestamp="1672307093977">
+    <state width="1225" height="397" key="GridCell.Tab.1.left" timestamp="1672380207002">
       <screen x="0" y="25" width="2560" height="1334" />
     </state>
     <state width="1048" height="324" key="GridCell.Tab.1.left/0.0.2560.1440@0.0.2560.1440" timestamp="1668764426759" />
-    <state width="948" height="340" key="GridCell.Tab.1.left/0.25.2560.1334@0.25.2560.1334" timestamp="1672307093977" />
+    <state width="1225" height="397" key="GridCell.Tab.1.left/0.25.2560.1334@0.25.2560.1334" timestamp="1672380207002" />
     <state width="1105" height="305" key="GridCell.Tab.1.left/0.25.2560.1338@0.25.2560.1338" timestamp="1669096995300" />
-    <state width="948" height="340" key="GridCell.Tab.1.right" timestamp="1672307093977">
+    <state width="1225" height="397" key="GridCell.Tab.1.right" timestamp="1672380207002">
       <screen x="0" y="25" width="2560" height="1334" />
     </state>
     <state width="1048" height="324" key="GridCell.Tab.1.right/0.0.2560.1440@0.0.2560.1440" timestamp="1668764426759" />
-    <state width="948" height="340" key="GridCell.Tab.1.right/0.25.2560.1334@0.25.2560.1334" timestamp="1672307093977" />
+    <state width="1225" height="397" key="GridCell.Tab.1.right/0.25.2560.1334@0.25.2560.1334" timestamp="1672380207002" />
     <state width="1105" height="305" key="GridCell.Tab.1.right/0.25.2560.1338@0.25.2560.1338" timestamp="1669096995300" />
     <state width="1899" height="325" key="GridCell.Tab.2.bottom" timestamp="1666860276252">
       <screen x="0" y="25" width="2560" height="1338" />
@@ -1690,15 +1652,15 @@
       <screen x="0" y="25" width="2560" height="1338" />
     </state>
     <state x="1201" y="615" key="ReplaceDuplicatesPrompt/0.25.2560.1338@0.25.2560.1338" timestamp="1668415005962" />
-    <state x="654" y="438" key="RollbackChangesDialog" timestamp="1672303083847">
+    <state x="654" y="438" key="RollbackChangesDialog" timestamp="1672390327446">
       <screen x="0" y="25" width="2560" height="1334" />
     </state>
-    <state x="654" y="438" key="RollbackChangesDialog/0.25.2560.1334@0.25.2560.1334" timestamp="1672303083847" />
+    <state x="654" y="438" key="RollbackChangesDialog/0.25.2560.1334@0.25.2560.1334" timestamp="1672390327446" />
     <state x="654" y="439" key="RollbackChangesDialog/0.25.2560.1338@0.25.2560.1338" timestamp="1669099237531" />
-    <state x="1830" y="25" width="713" height="1334" key="ScreenshotViewer.Dimensions" timestamp="1672313517917">
+    <state x="1651" y="25" width="739" height="1334" key="ScreenshotViewer.Dimensions" timestamp="1672389150565">
       <screen x="0" y="25" width="2560" height="1334" />
     </state>
-    <state x="1830" y="25" width="713" height="1334" key="ScreenshotViewer.Dimensions/0.25.2560.1334@0.25.2560.1334" timestamp="1672313517917" />
+    <state x="1651" y="25" width="739" height="1334" key="ScreenshotViewer.Dimensions/0.25.2560.1334@0.25.2560.1334" timestamp="1672389150565" />
     <state x="810" y="25" width="741" height="1338" key="ScreenshotViewer.Dimensions/0.25.2560.1338@0.25.2560.1338" timestamp="1669108409928" />
     <state x="810" y="25" width="774" height="1415" key="ScreenshotViewer.Dimensions/0.25.2560.1415@0.25.2560.1415" timestamp="1669017123881" />
     <state x="567" y="370" width="1219" height="700" key="SettingsEditor" timestamp="1672217631730">
@@ -1707,10 +1669,10 @@
     <state x="567" y="370" width="1219" height="700" key="SettingsEditor/0.25.2560.1334@0.25.2560.1334" timestamp="1672217631730" />
     <state x="663" y="499" key="SettingsEditor/0.25.2560.1338@0.25.2560.1338" timestamp="1668509434575" />
     <state x="843" y="464" key="SettingsEditor/0.25.2560.1415@0.25.2560.1415" timestamp="1669015271373" />
-    <state width="1098" height="494" key="ShowBookmarks" timestamp="1672309895794">
+    <state width="1098" height="494" key="ShowBookmarks" timestamp="1672389937351">
       <screen x="0" y="25" width="2560" height="1334" />
     </state>
-    <state width="1098" height="494" key="ShowBookmarks/0.25.2560.1334@0.25.2560.1334" timestamp="1672309895794" />
+    <state width="1098" height="494" key="ShowBookmarks/0.25.2560.1334@0.25.2560.1334" timestamp="1672389937351" />
     <state width="254" height="200" key="ShowFilterAction_Filter_Popup" timestamp="1665642568602">
       <screen x="0" y="25" width="2560" height="1338" />
     </state>
@@ -1725,10 +1687,10 @@
     </state>
     <state x="821" y="330" key="Vcs.Push.Dialog.v2/0.25.2560.1334@0.25.2560.1334" timestamp="1669185622500" />
     <state x="821" y="331" width="1009" height="640" key="Vcs.Push.Dialog.v2/0.25.2560.1338@0.25.2560.1338" timestamp="1668581543244" />
-    <state width="854" height="541" key="XDebugger.FullValuePopup" timestamp="1671092169754">
+    <state width="854" height="541" key="XDebugger.FullValuePopup" timestamp="1672373209810">
       <screen x="0" y="25" width="2560" height="1334" />
     </state>
-    <state width="854" height="541" key="XDebugger.FullValuePopup/0.25.2560.1334@0.25.2560.1334" timestamp="1671092169754" />
+    <state width="854" height="541" key="XDebugger.FullValuePopup/0.25.2560.1334@0.25.2560.1334" timestamp="1672373209810" />
     <state width="854" height="542" key="XDebugger.FullValuePopup/0.25.2560.1338@0.25.2560.1338" timestamp="1668164932817" />
     <state x="912" y="696" width="956" height="449" key="chooseDestDirectoryDialog" timestamp="1667549832182">
       <screen x="0" y="25" width="2560" height="1338" />
@@ -1782,21 +1744,21 @@
       <screen x="0" y="25" width="2560" height="1338" />
     </state>
     <state x="687" y="219" width="1786" height="1216" key="dock-window-7/0.25.2560.1338@0.25.2560.1338" timestamp="1669016634972" />
-    <state x="771" y="520" width="1464" height="699" key="find.popup" timestamp="1672295928016">
+    <state x="771" y="520" width="1464" height="699" key="find.popup" timestamp="1672369870359">
       <screen x="0" y="25" width="2560" height="1334" />
     </state>
     <state x="852" y="500" width="1464" height="755" key="find.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1668764154047" />
-    <state x="771" y="520" width="1464" height="699" key="find.popup/0.25.2560.1334@0.25.2560.1334" timestamp="1672295928016" />
+    <state x="771" y="520" width="1464" height="699" key="find.popup/0.25.2560.1334@0.25.2560.1334" timestamp="1672369870359" />
     <state x="852" y="490" width="1464" height="701" key="find.popup/0.25.2560.1338@0.25.2560.1338" timestamp="1669173229118" />
     <state x="852" y="516" width="1464" height="742" key="find.popup/0.25.2560.1415@0.25.2560.1415" timestamp="1668769866775" />
     <state x="1101" y="532" width="741" height="453" key="refactoring.ChangeSignatureDialog" timestamp="1666163617089">
       <screen x="0" y="25" width="2560" height="1338" />
     </state>
     <state x="1101" y="532" width="741" height="453" key="refactoring.ChangeSignatureDialog/0.25.2560.1338@0.25.2560.1338" timestamp="1666163617089" />
-    <state x="945" y="329" width="1208" height="633" key="search.everywhere.popup" timestamp="1672309903129">
+    <state x="945" y="329" width="1208" height="633" key="search.everywhere.popup" timestamp="1672389894284">
       <screen x="0" y="25" width="2560" height="1334" />
     </state>
-    <state x="945" y="329" width="1208" height="633" key="search.everywhere.popup/0.25.2560.1334@0.25.2560.1334" timestamp="1672309903129" />
+    <state x="945" y="329" width="1208" height="633" key="search.everywhere.popup/0.25.2560.1334@0.25.2560.1334" timestamp="1672389894284" />
     <state x="945" y="330" width="672" height="683" key="search.everywhere.popup/0.25.2560.1338@0.25.2560.1338" timestamp="1669173024328" />
     <state x="945" y="348" width="672" height="723" key="search.everywhere.popup/0.25.2560.1415@0.25.2560.1415" timestamp="1669026112753" />
   </component>
@@ -2166,6 +2128,26 @@ data.clickUrl = &quot;sadfasdf&quot;</expression-string>
     </expressions>
     <expressions id="evaluateExpression">
       <expression>
+        <expression-string>contentId=2399182</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>params.clear()</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>params[&quot;id&quot;] = &quot;2399182&quot;</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>contentId = 2399182</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>clickUrl = data.clickUrl</expression-string>
         <language-id>kotlin</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
@@ -2398,29 +2380,14 @@ data.clickUrl = &quot;sadfasdf&quot;</expression-string>
         <language-id>kotlin</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>((apiFunc[0] as JSObject).get(&quot;params&quot;) as JSObject)[&quot;id&quot;]=1</expression-string>
-        <language-id>kotlin</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>(apiFunc[0] as JSObject).get(&quot;params&quot;)</expression-string>
-        <language-id>kotlin</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>(apiFunc[0] as JSObject).get(&quot;para,s&quot;)</expression-string>
-        <language-id>kotlin</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mangatoon-js/src/main/java/mobi/mangatoon/js/modules/JSApiPlugin.kt">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.youth.banner/banner/2.0.8/5bfa8d45bac0c4e5907fd2f1f0cae69beee7d325/banner-2.0.8-sources.jar!/com/youth/banner/listener/OnBannerListener.java">
       <provider selected="true" editor-type-id="android-source-code">
         <state>
-          <editor-state relative-caret-position="696">
-            <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+          <editor-state relative-caret-position="48">
+            <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
           </editor-state>
           <multi-preview-state selected="">
             <representations>
@@ -2430,21 +2397,345 @@ data.clickUrl = &quot;sadfasdf&quot;</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mangatoon-resource-module/src/main/res/values-th-rTH/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9456">
-          <caret line="394" column="16" selection-start-line="394" selection-start-column="16" selection-end-line="394" selection-end-column="16" />
+    <entry file="file://$PROJECT_DIR$/mangatoon-base-function/mangatoon-function-base/src/main/res/layout/author_broadcast_item.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mangatoon-base-function/mangatoon-comment/src/comment/res/layout/activity_score_and_comment.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mangatoon-lib-common/src/main/java/mobi/mangatoon/common/utils/SafeExecute.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="573">
+            <caret line="70" column="6" selection-start-line="70" selection-start-column="6" selection-end-line="70" selection-end-column="6" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mangatoon-widget/src/main/res/drawable/card_bg_dark_8p.xml">
-      <provider selected="true" editor-type-id="android-preview-designer" />
+    <entry file="file://$PROJECT_DIR$/mangatoon-js/src/main/java/mobi/mangatoon/js/instance/JSInstanceImpl.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="687">
+            <caret line="47" column="25" lean-forward="true" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mangatoon-contribution/src/main/java/mangatoon/mobi/contribution/adapter/CalendarAdapter.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="261">
+            <caret line="41" selection-start-line="41" selection-end-line="41" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mangatoon-homepage/mangatoon-home-base/src/main/java/mobi/mangatoon/home/base/home/viewholders/SuggestionAuthorWordsViewHolder.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="354">
+            <caret line="16" selection-start-line="16" selection-end-line="16" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.2.1/f0f93e67af3f7417bdd560d5142f6dec4fe629c3/recyclerview-1.2.1-sources.jar!/androidx/recyclerview/widget/RecyclerView.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="296">
+            <caret line="7172" column="33" selection-start-line="7172" selection-start-column="33" selection-end-line="7172" selection-end-column="33" />
+          </editor-state>
+          <multi-preview-state selected="Custom views">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mangatoon-homepage/mangatoon-home-base/src/main/java/mobi/mangatoon/home/base/home/adapters/AbstractBannerAdapter.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="120">
+            <caret line="6" column="76" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="76" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mangatoon-base-function/mangatoon-function-base/src/main/res/layout/author_broadcast_item2.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.youth.banner/banner/2.0.8/5bfa8d45bac0c4e5907fd2f1f0cae69beee7d325/banner-2.0.8-sources.jar!/com/youth/banner/adapter/IViewHolder.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="248">
+            <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.youth.banner/banner/2.0.8/5bfa8d45bac0c4e5907fd2f1f0cae69beee7d325/banner-2.0.8-sources.jar!/com/youth/banner/util/BannerUtils.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="-182">
+            <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.youth.banner/banner/2.0.8/5bfa8d45bac0c4e5907fd2f1f0cae69beee7d325/banner-2.0.8-sources.jar!/com/youth/banner/adapter/BannerAdapter.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="963">
+            <caret line="62" column="35" selection-start-line="62" selection-start-column="35" selection-end-line="62" selection-end-column="35" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mangatoon-homepage/mangatoon-home-base/src/main/java/mobi/mangatoon/home/base/home/adapters/AuthorBroadcastBannerAdapter.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="576">
+            <caret line="44" column="44" selection-start-line="44" selection-start-column="44" selection-end-line="44" selection-end-column="44" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mangatoon-base-function/mangatoon-function-base/src/main/java/mobi/mangatoon/function/base/adapter/BroadcastBannerAdapter.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="640">
+            <caret line="79" column="5" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ext.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app-nt/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="51" column="8" lean-forward="true" selection-start-line="50" selection-start-column="27" selection-end-line="51" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mangatoon-network-monitor/src/main/java/mobi/mangatoon/NetWorkDiagnoseMgr.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="540">
+            <caret line="146" column="29" selection-start-line="146" selection-start-column="29" selection-end-line="146" selection-end-column="29" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mangatoon-network/src/main/java/mobi/mangatoon/network/RequestWrapper.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="168">
+            <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/mobi.mangatoon.android/mangatoon-base-util/0.0.16/323e68f0755f60e0a4298f42a5335dcc9623653c/mangatoon-base-util-0.0.16-sources.jar!/mobi/mangatoon/util/SingleThreadWorker.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="491">
+            <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mangatoon-network/src/main/java/mobi/mangatoon/network/logger/ProcessLogger.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="355">
+            <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mangatoon-base-module/src/main/java/mobi/mangatoon/module/base/utils/EventBusBinderInRecyclerView.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="120">
+            <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mangatoon-content-reader/mangatoon-base-reader/src/main/java/mobi/mangatoon/module/basereader/adapter/EpisodeReaderFeedAdsAdapter.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="424">
+            <caret line="83" column="28" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="28" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mangatoon-base-module/src/main/java/mobi/mangatoon/module/base/diskcache/BaseModelLruCacheHelper.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="153">
+            <caret line="47" column="28" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mangatoon-homepage/mangatoon-home-discover/src/main/java/mobi/mangatoon/discover/base/fragment/DiscoverTypeFragment.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="557">
+            <caret line="193" column="48" lean-forward="true" selection-start-line="193" selection-start-column="48" selection-end-line="193" selection-end-column="48" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mangatoon-passport/src/main/java/mobi/mangatoon/passport/LoginHelper.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="236">
+            <caret line="56" selection-start-line="56" selection-end-line="56" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mangatoon-passport/src/main/java/mobi/mangatoon/passport/activity/BaseFragmentActivity.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="236">
+            <caret line="55" selection-start-line="55" selection-end-line="55" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mangatoon-homepage/mangatoon-home-base/src/main/java/mobi/mangatoon/home/base/home/adapters/FragmentHomeCombinedAdapter.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="245">
+            <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mangatoon-homepage/mangatoon-home-base/src/main/java/mobi/mangatoon/home/base/home/adapters/FragmentHomeIconAdapter.java">
       <provider selected="true" editor-type-id="android-source-code">
         <state>
-          <editor-state relative-caret-position="3624">
-            <caret line="186" column="56" selection-start-line="186" selection-start-column="56" selection-end-line="186" selection-end-column="56" />
+          <editor-state relative-caret-position="156">
+            <caret line="208" selection-start-line="208" selection-end-line="208" />
           </editor-state>
           <multi-preview-state selected="">
             <representations>
@@ -2454,11 +2745,11 @@ data.clickUrl = &quot;sadfasdf&quot;</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mangatoon-lib-common/src/main/java/mobi/mangatoon/common/utils/TypefaceUtil.java">
+    <entry file="file://$PROJECT_DIR$/mangatoon-lib-common/src/main/java/mobi/mangatoon/common/urlhandler/MTURLBuilder.java">
       <provider selected="true" editor-type-id="android-source-code">
         <state>
-          <editor-state relative-caret-position="1560">
-            <caret line="75" column="25" selection-start-line="75" selection-start-column="25" selection-end-line="75" selection-end-column="25" />
+          <editor-state relative-caret-position="436">
+            <caret line="213" column="48" selection-start-line="213" selection-start-column="48" selection-end-line="213" selection-end-column="48" />
           </editor-state>
           <multi-preview-state selected="">
             <representations>
@@ -2468,158 +2759,11 @@ data.clickUrl = &quot;sadfasdf&quot;</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mangatoon-homepage/mangatoon-home-base/src/main/java/mobi/mangatoon/home/base/home/viewholders/SuggestionHistoryScrollViewHolder.kt">
+    <entry file="file://$PROJECT_DIR$/mangatoon-contribution/src/main/java/mangatoon/mobi/contribution/acitvity/ContributionActivity.java">
       <provider selected="true" editor-type-id="android-source-code">
         <state>
-          <editor-state relative-caret-position="3048">
-            <caret line="151" column="17" selection-start-line="151" selection-start-column="17" selection-end-line="151" selection-end-column="17" />
-          </editor-state>
-          <multi-preview-state selected="">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mangatoon-homepage/mangatoon-home-base/src/mt/res/layout/list_item_home_page_icon.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#1288#1312#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mangatoon-homepage/mangatoon-home-base/src/mt/res/layout/list_item_home_page_icon_with_subtitle.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-      <provider editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mangatoon-resource-module/src/main/res/values/colors.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="213" column="15" selection-start-line="213" selection-start-column="15" selection-end-line="213" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mangatoon-widget/src/main/res/layout/activity_detail_comment_input.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Android/sdk/platforms/android-31/data/res/values/attrs.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="361" column="35" selection-start-line="361" selection-start-column="35" selection-end-line="361" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-31/android/app/Activity.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state>
-          <editor-state relative-caret-position="242">
-            <caret line="5151" column="16" selection-start-line="5151" selection-start-column="16" selection-end-line="5151" selection-end-column="16" />
-          </editor-state>
-          <multi-preview-state selected="">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-31/android/view/View.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state selected-layout="SHOW_EDITOR">
-          <editor-state relative-caret-position="233">
-            <caret line="23875" column="27" selection-start-line="23875" selection-start-column="27" selection-end-line="23875" selection-end-column="27" />
-          </editor-state>
-          <multi-preview-state selected="Custom views">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mangatoon-lib-common/src/main/res/values/attrs.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mangatoon-lib-common/src/main/java/mobi/mangatoon/common/theme/ThemeConstants.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state>
-          <editor-state relative-caret-position="144">
-            <caret line="5" column="60" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
-          </editor-state>
-          <multi-preview-state selected="">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mangatoon-base-function/mangatoon-comment/src/comment/res/drawable/dialog_theme_bg.xml">
-      <provider editor-type-id="android-preview-designer" />
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mangatoon-widget/src/main/java/mobi/mangatoon/widget/view/circle/RCRelativeLayout.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state selected-layout="SHOW_EDITOR">
-          <editor-state relative-caret-position="264">
-            <caret line="36" column="45" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
-          </editor-state>
-          <multi-preview-state selected="Custom views">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-31/android/widget/RelativeLayout.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state selected-layout="SHOW_EDITOR">
-          <editor-state relative-caret-position="1056">
-            <caret line="89" column="13" selection-start-line="89" selection-start-column="13" selection-end-line="89" selection-end-column="13" />
-          </editor-state>
-          <multi-preview-state selected="Custom views">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mangatoon-lib-common/src/main/res/anim/slide_out_bottom_600.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mangatoon-resource-module/src/main/res/drawable/bg_round_rectangle_theme_bg_top_16dp.xml">
-      <provider selected="true" editor-type-id="android-preview-designer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mangatoon-homepage/mangatoon-home-base/src/main/java/mobi/mangatoon/home/base/BaseInputFragmentActivity.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state>
-          <editor-state relative-caret-position="143">
-            <caret line="73" column="18" selection-start-line="73" selection-start-column="18" selection-end-line="73" selection-end-column="18" />
-          </editor-state>
-          <multi-preview-state selected="">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mangatoon-base-function/mangatoon-comment/src/comment/java/mobi/mangatoon/discover/comment/activity/CommentsOfEpisodeActivity.kt">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state>
-          <editor-state relative-caret-position="605">
-            <caret line="90" column="22" selection-start-line="90" selection-start-column="21" selection-end-line="90" selection-end-column="22" />
+          <editor-state relative-caret-position="288">
+            <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
           </editor-state>
           <multi-preview-state selected="">
             <representations>
@@ -2637,9 +2781,6 @@ data.clickUrl = &quot;sadfasdf&quot;</expression-string>
       </provider>
       <provider editor-type-id="android-designer2" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/mangatoon-widget/src/main/res/drawable/bg_comment_activity_light.xml">
-      <provider selected="true" editor-type-id="android-preview-designer" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/mangatoon-widget/src/main/res/values/styles.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4968">
@@ -2650,8 +2791,8 @@ data.clickUrl = &quot;sadfasdf&quot;</expression-string>
     <entry file="file://$PROJECT_DIR$/mangatoon-widget/src/main/java/mobi/mangatoon/widget/activity/BaseFragmentActivity.java">
       <provider selected="true" editor-type-id="android-source-code">
         <state>
-          <editor-state relative-caret-position="336">
-            <caret line="73" column="26" selection-start-line="73" selection-start-column="26" selection-end-line="73" selection-end-column="26" />
+          <editor-state relative-caret-position="168">
+            <caret line="66" column="22" selection-start-line="66" selection-start-column="22" selection-end-line="66" selection-end-column="22" />
           </editor-state>
           <multi-preview-state selected="">
             <representations>
@@ -2661,319 +2802,192 @@ data.clickUrl = &quot;sadfasdf&quot;</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mangatoon-widget/src/main/java/mobi/mangatoon/widget/nav/NavBarWrapper.kt">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state>
-          <editor-state relative-caret-position="384">
-            <caret line="31" column="6" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
-          </editor-state>
-          <multi-preview-state selected="">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mangatoon-homepage/mangatoon-home-discover/src/main/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3024">
-          <caret line="126" column="45" selection-start-line="126" selection-start-column="45" selection-end-line="126" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mangatoon-widget/src/main/java/mobi/mangatoon/widget/layout/ThemeRelativeLayout.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state selected-layout="SHOW_EDITOR">
-          <editor-state relative-caret-position="648">
-            <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
-          </editor-state>
-          <multi-preview-state selected="Custom views">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-31/android/view/ViewGroup.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state selected-layout="SHOW_EDITOR">
-          <editor-state relative-caret-position="178512">
-            <caret line="7588" column="20" selection-start-line="7588" selection-start-column="20" selection-end-line="7588" selection-end-column="20" />
-          </editor-state>
-          <multi-preview-state selected="Custom views">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mangatoon-widget/src/main/res/drawable/bg_comment_light.xml">
-      <provider selected="true" editor-type-id="android-preview-designer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mangatoon-homepage/mangatoon-home-base/src/main/java/mobi/mangatoon/home/base/constants/HomeListItemViewTypes.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state>
-          <editor-state relative-caret-position="246">
-            <caret line="40" column="45" selection-start-line="40" selection-start-column="45" selection-end-line="40" selection-end-column="45" />
-          </editor-state>
-          <multi-preview-state selected="">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mangatoon-homepage/mangatoon-home-base/src/main/java/mobi/mangatoon/home/base/home/adapters/FragmentHomeSuggestionAdapter.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state>
-          <editor-state relative-caret-position="243">
-            <caret line="138" column="41" selection-start-line="138" selection-start-column="41" selection-end-line="138" selection-end-column="41" />
-          </editor-state>
-          <multi-preview-state selected="">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mangatoon-homepage/mangatoon-home-base/src/main/java/mobi/mangatoon/home/base/home/viewholders/SuggestionAuthorWorkViewHolder.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state>
-          <editor-state relative-caret-position="552">
-            <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
-          </editor-state>
-          <multi-preview-state selected="">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mangatoon-widget/src/main/java/mobi/mangatoon/widget/homesuggestion/HomeListScrollItemLayout.kt">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state selected-layout="SHOW_EDITOR">
-          <editor-state relative-caret-position="289">
-            <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
-          </editor-state>
-          <multi-preview-state selected="Custom views">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mangatoon-widget/src/main/java/mobi/mangatoon/widget/homesuggestion/HomeScrollItemAdapter.kt">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state>
-          <editor-state relative-caret-position="476">
-            <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
-          </editor-state>
-          <multi-preview-state selected="">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mangatoon-widget/src/main/java/mobi/mangatoon/widget/homesuggestion/models/HomePageSuggestionsResultModel.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state>
-          <editor-state relative-caret-position="238">
-            <caret line="247" column="23" selection-start-line="247" selection-start-column="23" selection-end-line="247" selection-end-column="23" />
-          </editor-state>
-          <multi-preview-state selected="">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mangatoon-widget/src/main/java/mobi/mangatoon/widget/homesuggestion/HomeListScrollViewHolderAuthorWork.kt">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state>
-          <editor-state relative-caret-position="630">
-            <caret line="141" column="9" selection-start-line="141" selection-start-column="9" selection-end-line="141" selection-end-column="9" />
-          </editor-state>
-          <multi-preview-state selected="">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mangatoon-contribution/src/main/java/mangatoon/mobi/contribution/center/holder/ContributionAuthorBroadcastHolder.kt">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state>
-          <editor-state relative-caret-position="250">
-            <caret line="38" column="41" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
-          </editor-state>
-          <multi-preview-state selected="">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mangatoon-homepage/mangatoon-home-base/src/main/java/mobi/mangatoon/home/base/home/adapters/FragmentHomeCombinedAdapter.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state>
-          <editor-state relative-caret-position="480">
-            <caret line="46" column="27" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
-          </editor-state>
-          <multi-preview-state selected="">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mangatoon-base-function/mangatoon-function-base/src/main/java/mobi/mangatoon/function/base/repository/AuthorBroadcastRepository.kt">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state>
-          <editor-state relative-caret-position="192">
-            <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
-          </editor-state>
-          <multi-preview-state selected="">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mangatoon-base-function/mangatoon-function-base/src/main/java/mobi/mangatoon/function/base/viewmodel/AuthorBroadcastViewModel.kt">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state>
-          <editor-state relative-caret-position="120">
-            <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-          </editor-state>
-          <multi-preview-state selected="">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mangatoon-homepage/mangatoon-home-discover/src/main/java/mobi/mangatoon/discover/base/fragment/DiscoverTypeFragment.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state>
-          <editor-state relative-caret-position="195">
-            <caret line="51" column="31" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
-          </editor-state>
-          <multi-preview-state selected="">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state selected-layout="SHOW_EDITOR">
-          <editor-state relative-caret-position="283">
-            <caret line="7311" column="20" selection-start-line="7311" selection-start-column="20" selection-end-line="7311" selection-end-column="20" />
-          </editor-state>
-          <multi-preview-state selected="Custom views">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.viewpager2/viewpager2/1.0.0/3c3569044e6969f1ee5c3aa03b08e6717a2d782f/viewpager2-1.0.0-sources.jar!/androidx/viewpager2/widget/ViewPager2.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state selected-layout="SHOW_EDITOR">
-          <editor-state relative-caret-position="283">
-            <caret line="601" column="16" selection-start-line="601" selection-start-column="16" selection-end-line="601" selection-end-column="16" />
-          </editor-state>
-          <multi-preview-state selected="Custom views">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.youth.banner/banner/2.0.8/5bfa8d45bac0c4e5907fd2f1f0cae69beee7d325/banner-2.0.8-sources.jar!/com/youth/banner/listener/OnBannerListener.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state>
-          <editor-state relative-caret-position="48">
-            <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          </editor-state>
-          <multi-preview-state selected="">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.youth.banner/banner/2.0.8/5bfa8d45bac0c4e5907fd2f1f0cae69beee7d325/banner-2.0.8-sources.jar!/com/youth/banner/adapter/BannerAdapter.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state>
-          <editor-state relative-caret-position="221">
-            <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-          </editor-state>
-          <multi-preview-state selected="">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.youth.banner/banner/2.0.8/5bfa8d45bac0c4e5907fd2f1f0cae69beee7d325/banner-2.0.8-sources.jar!/com/youth/banner/Banner.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state selected-layout="SHOW_EDITOR">
-          <editor-state relative-caret-position="143">
-            <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
-          </editor-state>
-          <multi-preview-state selected="Custom views">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mangatoon-base-function/mangatoon-function-base/src/main/java/mobi/mangatoon/function/base/adapter/BroadcastBannerAdapter.kt">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state>
-          <editor-state relative-caret-position="126">
-            <caret line="40" column="11" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
-          </editor-state>
-          <multi-preview-state selected="">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mangatoon-base-function/mangatoon-function-base/src/main/res/layout/author_broadcast_item.xml">
+    <entry file="file://$PROJECT_DIR$/mangatoon-contribution/src/main/res/layout/contribution_activity.xml">
       <provider selected="true" editor-type-id="android-designer2" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/mangatoon-homepage/mangatoon-home-base/src/main/java/mobi/mangatoon/home/base/home/adapters/AuthorBroadcastBannerAdapter.kt">
+    <entry file="file://$PROJECT_DIR$/mangatoon-contribution/src/main/java/mangatoon/mobi/contribution/fragment/ContributionTabFragment.kt">
       <provider selected="true" editor-type-id="android-source-code">
         <state>
-          <editor-state relative-caret-position="647">
-            <caret line="82" column="44" lean-forward="true" selection-start-line="82" selection-start-column="44" selection-end-line="82" selection-end-column="44" />
+          <editor-state relative-caret-position="1632">
+            <caret line="119" column="50" selection-start-line="119" selection-start-column="50" selection-end-line="119" selection-end-column="50" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mangatoon-homepage/mangatoon-home-base/src/main/java/mobi/mangatoon/home/base/constants/ListHomeItemTypeItem.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="264">
+            <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mangatoon-widget/src/main/java/mobi/mangatoon/widget/fragment/BaseFragment.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="96">
+            <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mangatoon-contribution/src/main/java/mangatoon/mobi/contribution/center/ContributionCenterHelper.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="1368">
+            <caret line="73" column="6" selection-start-line="73" selection-start-column="6" selection-end-line="73" selection-end-column="6" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mangatoon-homepage/mangatoon-home-base/src/main/java/mobi/mangatoon/home/base/home/viewholders/SuggestionScrollViewHolder.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="504">
+            <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mangatoon-content-reader/mangatoon-novel-reader/src/main/java/mobi/mangatoon/module/novelreader/fragment/FictionContentFragment.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="242">
+            <caret line="157" column="32" lean-forward="true" selection-start-line="157" selection-start-column="32" selection-end-line="157" selection-end-column="32" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mangatoon-content-reader/mangatoon-novel-reader/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mangatoon-content-reader/mangatoon-novel-reader/src/main/java/mobi/mangatoon/module/novelreader/viewholder/FictionTextViewHolder.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="242">
+            <caret line="293" column="66" selection-start-line="293" selection-start-column="66" selection-end-line="293" selection-end-column="66" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mangatoon-share/src/main/java/mobi/mangatoon/share/fragment/ContentShareFragment.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="233">
+            <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mangatoon-content-reader/mangatoon-novel-reader/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+          <folding>
+            <element signature="e#2075#2107#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mangatoon-content-reader/mangatoon-novel-reader/src/main/java/mobi/mangatoon/module/novelreader/activity/SegmentShareActivity.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="265">
+            <caret line="119" selection-start-line="119" selection-end-line="119" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mangatoon-contribution/src/main/res/drawable/check_in_bg_theme.xml">
+      <provider selected="true" editor-type-id="android-preview-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mangatoon-contribution/src/main/res/layout/author_check_in_activity.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mangatoon-base-function/mangatoon-comment/src/comment/java/mobi/mangatoon/discover/comment/activity/CommentsOfEpisodeActivity.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="678">
+            <caret line="315" column="50" selection-start-line="315" selection-start-column="50" selection-end-line="315" selection-end-column="50" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mangatoon-pub/common/java/com/weex/app/activities/DetailActivity.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="174">
+            <caret line="719" selection-start-line="719" selection-end-line="719" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mangatoon-contribution/src/main/java/mangatoon/mobi/contribution/acitvity/AuthorCheckInActivity.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="104">
+            <caret line="136" column="53" selection-start-line="136" selection-start-column="53" selection-end-line="136" selection-end-column="53" />
           </editor-state>
           <multi-preview-state selected="">
             <representations>
